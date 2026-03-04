@@ -29,6 +29,8 @@ En Licence économie gestion spécialisé en **Économie appliquée et analyse d
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+**Langues :** ![Français](https://img.shields.io/badge/Français-Maternel-blue) ![Anglais Business](https://img.shields.io/badge/Anglais_Business-Professionnel-brightgreen)
+
 ---
 
 ### 🏆 Projets Mis en Avant
